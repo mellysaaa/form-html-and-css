@@ -1,0 +1,91 @@
+fieldset {
+	display: inline-block;
+	size: 
+}
+img {
+	margin: 10px 35;
+}
+h1 {
+	font-family: Arial;
+	font-size: 15px;
+	margin: 10px 35;
+}
+h3 {
+	font-family: Arial;
+	font-size: 11px;
+	margin: 10px 35;
+}
+h4 {
+	font-family: Arial;
+	font-size: 10px;
+	color: #4285F4;
+	margin: 10px 35;
+}
+h5 {
+	font-family: Arial;
+	font-size: 10px;
+	margin: 10px 35;
+}
+p {
+	text-align: left;
+	font-weight: bold;
+}
+input {
+	padding: 7px;
+	margin: 5px 35;
+}
+.namadepan {
+	font-family: Arial;
+	font-size: 10px;
+}
+.namabelakang {
+	font-family: Arial;
+	font-size: 10px;
+	width: 50%;
+}
+.login {
+	border: none;
+	color: #4285F4;
+	background-color: #FFFFFF;
+	padding: 35px;
+	font-size: 13px;
+	font-family: 15px;
+	font-family: Arial;
+	font-weight: bold;
+	position: relative;
+	float: left;
+}
+.next {
+	border: none;
+	background-color: #4285F4;
+	color: #FFFFFF;
+	padding: 10px;
+	float: left;
+	font-weight: bold;
+	margin: 22px 200px;
+	font-family: Arial;
+}
+.pilih {
+	padding-top: 1px;
+	background-color: #FFFFFF;
+	border: none;
+	padding-right: 5px;
+}
+.button1 {
+	border: none;
+	background-color: #FFFFFF;
+	padding-top: 5px; 
+}
+.button {
+	border: none;
+	background-color: #FFFFFF;
+	padding-left: 5px;
+	padding-top: 5px;
+}
+.A {
+	padding: 7px 0px;
+	margin: 10px 35px;
+}
+.B {
+	padding-left: 80px;
+}
